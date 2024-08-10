@@ -16,7 +16,6 @@ import (
 	"gopkg.ilharper.com/x/isatty"
 
 	"github.com/Mrs4s/go-cqhttp/global"
-	"github.com/Mrs4s/go-cqhttp/internal/download"
 )
 
 var console = bufio.NewReader(os.Stdin)
